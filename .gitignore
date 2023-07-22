@@ -1,4 +1,8 @@
+.idea/
+__Permanant_cache__/
+__pycache__/
+exportToHTML/
 *.exe
 *.mp3
 Agent
-.idea/
+
